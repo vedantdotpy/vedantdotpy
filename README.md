@@ -132,7 +132,7 @@ Built a containerized ETL pipeline and star-schema PostgreSQL warehouse processi
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vedantdotpy&theme=tokyonight&hide_border=true&background=0a0e27&stroke=00d4ff&ring=a855f7&fire=00d4ff&currStreakLabel=e2e8f0)
+![GitHub Streak](https://streak-stats.demolab.com/?user=vedantdotpy&theme=tokyonight&hide_border=true&background=0a0e27&stroke=00d4ff&ring=a855f7&fire=00d4ff&currStreakLabel=e2e8f0)
 
 </div>
 
