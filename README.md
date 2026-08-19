@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1200&color=00D4FF&center=true&vCenter=true&width=680&lines=Software+Engineer+%E2%80%94+Backend+%26+Data+Engineering;Building+APIs%2C+Pipelines+%26+Systems+That+Scale;Python+%7C+FastAPI+%7C+PostgreSQL+%7C+Docker" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=1800&pause=800&color=00D4FF&multiline=true&repeat=true&width=600&height=140&lines=%24+whoami;vedant_mishra;%24+cat+role.txt;Software+Engineer+%E2%80%94+Backend+%26+Data+Engineering;%24+./run+--stack;Python+%C2%B7+FastAPI+%C2%B7+PostgreSQL+%C2%B7+Docker" alt="Terminal Typing SVG" />
 
 </div>
 
@@ -14,13 +14,7 @@
 
 <br>
 
-```bash
-vedant@dev:~$ whoami
-```
-
 ```yaml
-name:      Vedant Mishra
-role:      Software Engineer — Backend & Data Engineering
 based_in:  New Delhi, India
 studying:  B.Tech, Industrial Internet of Things — GGSIPU (2023–2027)
 focus:     Python · FastAPI · PostgreSQL · Docker · Data Pipelines
@@ -29,90 +23,24 @@ status:    Building production-style systems, one repo at a time
 
 ---
 
-## ⚡ Experience
-
-<table>
-<tr>
-<td width="15%" valign="top"><b>Aug – Sep 2026</b></td>
-<td width="85%">
-
-### 🔐 Software Engineering Intern — Information Security Team
-**LG Electronics India Ltd.** · On-site, Noida
-
-Built an **Enterprise Security Operations Analytics Platform** — a Python-based system automating security event processing and reporting.
-
-- 🔧 Cut manual analysis effort by **50%+** through automated workflows
-- 📊 Built ETL pipelines (Python, Pandas, SQL, PostgreSQL) processing **100K+ security events**
-- 🌐 Designed **FastAPI REST APIs** for threat summaries, user activity, and risk analysis
-- 🚨 Implemented rule-based anomaly detection for suspicious auth patterns
-- 🐳 Containerized services with Docker & Docker Compose
-
-</td>
-</tr>
-<tr>
-<td width="15%" valign="top"><b>Jun – Jul 2026</b></td>
-<td width="85%">
-
-### 🤖 AI Automation & Intelligent Solutions Intern
-**IBM SkillsBuild × BharatCares** · Remote
-
-- Built **3+ AI automation prototypes** across Generative AI, AI agents, and workflow automation
-- Designed and tested **10+ AI-driven workflows** for task automation and decision support
-- Improved workflow reliability via prompt engineering and iterative evaluation
-- Explored multi-agent architectures for real-world automation scenarios
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔗 Scalable URL Shortener Backend
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vedantdotpy)
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-A production-style backend with REST APIs for generation, redirection, auth, and analytics tracking.
-
-- 🗄️ PostgreSQL schema via SQLAlchemy ORM, indexed for **100K+ URL records**
-- ⚡ Redis caching cut DB dependency by **70%+**
-- 📈 Analytics pipeline capturing **10K+ simulated click events**
-
-</td>
-<td width="50%" valign="top">
-
-### 🚚 Supply Chain Intelligence & Optimization Platform
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vedantdotpy/supply-chain-intelligence)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-An end-to-end ETL and analytics platform for supply chain intelligence.
-
-- 📦 Processed **180K+ transactions** through Python-based ETL pipelines
-- 📊 Analytics covering sales, logistics efficiency, and inventory trends
-- 🐳 Dockerized, reproducible data processing workflows
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 
-> 🧩 More projects in progress — this section grows as new work ships.
+### 🚚 [Supply Chain Intelligence & Optimization Platform](https://github.com/vedantdotpy/supply-chain-intelligence)
+
+*An end-to-end supply chain and demand intelligence platform using Python, SQL, statistics, forecasting, optimization, and Power BI.*
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+Processed **180K+ supply chain transactions** through Python-based ETL pipelines, with analytics workflows covering sales performance, logistics efficiency, inventory trends, and operational insights — all running on a Dockerized, reproducible pipeline.
 
 </div>
+
+> 🧩 More projects coming soon — this section grows as new work ships.
 
 ---
 
@@ -200,11 +128,27 @@ An end-to-end ETL and analytics platform for supply chain intelligence.
 
 ---
 
+## 🐍 Contribution Snake
+
 <div align="center">
 
-```bash
-vedant@dev:~$ echo "Always shipping, always learning."
-```
+<img src="https://raw.githubusercontent.com/vedantdotpy/vedantdotpy/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" />
+
+</div>
+
+---
+
+## 🧊 3D Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/vedantdotpy/vedantdotpy/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+
+</div>
+
+---
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=100&section=footer" width="100%"/>
 
