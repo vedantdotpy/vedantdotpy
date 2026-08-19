@@ -1,186 +1,258 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&fontColor=CAFF3C&text=%3E_%20vedant_mishra&fontSize=38&desc=Software+Engineer+%E2%80%94+Backend+%26+Data+Engineering&descColor=8AFF57&animation=fadeIn&height=180" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:3b0764,100:6d28d9&height=260&section=header&text=Vedant%20Mishra&fontSize=60&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Data%20Engineering&descAlignY=58&descSize=20" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=680&lines=Backend+%26+Data+Engineering+Systems;Building+with+Python%2C+FastAPI%2C+PostgreSQL;AI%2FML+%7C+Automation+%7C+Cloud-Ready+Apps;Turning+Data+into+Scalable+Products" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/B.Tech-Industrial%20IoT-6D28D9?style=for-the-badge&labelColor=0f0524"/>
+<img src="https://img.shields.io/badge/USAR%2C%20GGSIPU-Class%20of%202027-7C3AED?style=for-the-badge&labelColor=0f0524"/>
+<img src="https://img.shields.io/badge/📍%20New%20Delhi-India-8B5CF6?style=for-the-badge&labelColor=0f0524"/>
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/vedant-mishra-dev"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0524"/></a>
+<a href="mailto:vedantmishra.dev@gmail.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0524"/></a>
+<a href="https://github.com/vedantdotpy"><img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0524"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=vedantdotpy&style=flat-square&color=7c3aed&label=Profile+Views"/>
+<img src="https://img.shields.io/github/followers/vedantdotpy?style=flat-square&color=7c3aed&labelColor=0f0524&logo=github&label=Followers"/>
+<img src="https://img.shields.io/github/stars/vedantdotpy?style=flat-square&color=7c3aed&labelColor=0f0524&logo=github&label=Stars"/>
+
 </div>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=1800&pause=800&color=CAFF3C&multiline=true&repeat=true&width=600&height=140&lines=%24+whoami;vedant_mishra;%24+cat+role.txt;Software+Engineer+%E2%80%94+Backend+%26+Data+Engineering;%24+./run+--stack;Python+%C2%B7+FastAPI+%C2%B7+PostgreSQL+%C2%B7+Docker" alt="Terminal Typing SVG" />
-
-</div>
-
-<div align="center">
-
-[![GitHub followers](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Followers&query=followers&url=https://api.github.com/users/vedantdotpy&logo=github&logoColor=0A0F08&color=CAFF3C&labelColor=0A0F08)](https://github.com/vedantdotpy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-CAFF3C?style=for-the-badge&logo=linkedin&logoColor=0A0F08&labelColor=0A0F08)](https://www.linkedin.com/in/vedant-mishra-/)
-[![Profile Views](https://komarev.com/ghpvc/?username=vedantdotpy&style=for-the-badge&color=caff3c&labelColor=0A0F08)](https://github.com/vedantdotpy)
-
-</div>
-
-<br>
-
-## `> whoami`
-
-```bash
-$ cat .profile
-
-BASED_IN  =  New Delhi, India
-STUDYING  =  B.Tech, Industrial Internet of Things — GGSIPU (2023–2027)
-FOCUS     =  Python · FastAPI · PostgreSQL · Docker · Data Pipelines
-STATUS    =  Building production-style systems, one repo at a time
-```
+<br/>
 
 ---
 
-## `> ls /projects`
+### 🟣 About Me
+
+<img align="right" width="230" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" width="0" height="0"/>
+
+```
+I'm a Software Engineer specializing in backend systems, data engineering, 
+and AI-driven automation — building production-style services that scale.
+```
+
+- 🔭 Engineering backend systems with **Python, FastAPI, PostgreSQL & Docker**
+- 🧠 Exploring **AI/ML, Generative AI, and multi-agent automation** architectures
+- ⚙️ Passionate about **API design, ETL pipelines, and system reliability**
+- 🌱 Growing into full-stack & cloud-native product engineering
+- 🎯 Product mindset — obsessed with turning raw data into business impact
+- 📊 Background in **Industrial IoT**, bridging embedded systems with software
+
+<br/>
+
+<table align="center">
+<tr>
+<td>
+
+**💼 Open To**
+Backend Engineering · Data Engineering · AI/ML Engineering · Software Engineering (New Grad 2027)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🟣 Tech Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,cpp,go,js&theme=dark"/>
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,redis&theme=dark"/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark"/>
+
+**Cloud, DevOps & Tooling**
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,githubactions&theme=dark"/>
+
+---
+
+### 🟣 AI / ML Expertise
 
 <div align="center">
 
-<details open>
-<summary><b>&#9654; Supply Chain Intelligence & Optimization Platform</b></summary>
-<br>
+| Domain | Proficiency | Details |
+|---|---|---|
+| Generative AI | ⭐⭐⭐⭐☆ | Prompt engineering, evaluation techniques, iterative optimization |
+| AI Agents & Automation | ⭐⭐⭐⭐☆ | Multi-agent architectures, intelligent virtual agents, workflow automation |
+| Data Analytics | ⭐⭐⭐⭐⭐ | ETL pipelines, Pandas-based transformation, operational reporting |
+| Applied ML Workflows | ⭐⭐⭐☆☆ | Anomaly detection, rule-based risk scoring, decision-support systems |
 
-*An end-to-end supply chain and demand intelligence platform using Python, SQL, statistics, forecasting, optimization, and Power BI.*
+</div>
 
-| Aspect | Detail |
-| :-- | :-- |
-| **Stack** | Python · PostgreSQL · Streamlit · Docker |
+---
+
+### 🟣 Featured Projects
+
+<details>
+<summary><b>🚀 Supply Chain Intelligence & Optimization Platform</b></summary>
+<br/>
+
+End-to-end analytics platform processing large-scale supply chain data — covering sales performance, logistics efficiency, inventory trends, and prescriptive business recommendations.
+
+| Category | Details |
+|---|---|
+| **Stack** | Python · SQL · Pandas · PostgreSQL · Docker · Streamlit |
 | **Scale** | 180K+ supply chain transactions processed |
-| **Impact** | Analytics covering sales performance, logistics efficiency, and inventory trends |
-| **Repo** | [View on GitHub](https://github.com/vedantdotpy/supply-chain-intelligence) |
+| **Performance** | Automated ETL reducing manual analysis effort significantly |
+| **Security** | Containerized, reproducible execution environments |
+| **Impact** | Sales, logistics & inventory insights with actionable recommendations |
+| **Repository** | [View on GitHub](https://github.com/vedantdotpy/supply-chain-intelligence-platform) |
 
-Designed and built the full Python-based ETL pipeline, PostgreSQL data layer, and Dockerized, reproducible processing workflows.
+Built a multi-phase analytical pipeline — descriptive through prescriptive analytics — with data cleaning, validation, and transformation stages designed for reliability at scale, backed by clear "so-what" business recommendations rather than raw metrics alone.
 
 </details>
 
-</div>
+<details>
+<summary><b>🔗 Scalable URL Shortener Backend</b></summary>
+<br/>
 
-> 🧩 More projects coming soon — this section grows as new work ships.
+Production-style URL shortening service with authentication, redirection, and real-time analytics tracking.
+
+| Category | Details |
+|---|---|
+| **Stack** | FastAPI · PostgreSQL · Redis · Docker · SQLAlchemy |
+| **Scale** | 100K+ indexed URL records, 10K+ simulated click events |
+| **Performance** | 70%+ reduction in DB dependency via Redis caching |
+| **Security** | Token-based authentication on all write endpoints |
+| **Impact** | Sub-millisecond redirect latency under cache hits |
+| **Repository** | [View on GitHub](https://github.com/vedantdotpy/scalable-url-shortener) |
+
+Designed indexed short-code lookup schemas via SQLAlchemy ORM, with a caching layer that meaningfully cut database load, alongside an analytics pipeline capturing granular user activity metadata for reporting.
+
+</details>
 
 ---
 
-## `> skills --list`
+### 🟣 Experience
+
+**Software Engineering Intern — Information Security Team** · LG Electronics India Ltd.
+`Aug 2026 – Sep 2026 · Noida, India (On-site)`
+
+Built an enterprise-grade Security Operations Analytics Platform automating threat detection and reporting workflows.
+
+- Developed ETL pipelines processing 100K+ security events using Python, Pandas & PostgreSQL
+- Designed FastAPI REST APIs for threat summaries, risk analysis & operational reporting
+- Implemented rule-based anomaly detection for authentication & behavioral anomalies
+- Containerized services with Docker & Docker Compose for consistent deployments
+
+`Python` `FastAPI` `PostgreSQL` `Docker` `ETL` `Security Analytics`
+
+<br/>
+
+**AI Automation & Intelligent Solutions Intern** · IBM SkillsBuild × BharatCares
+`Jun 2026 – Jul 2026 · Remote`
+
+Prototyped Generative AI and multi-agent automation systems for real-world workflow automation.
+
+- Built 3+ AI automation prototypes across Generative AI & agentic workflows
+- Designed and tested 10+ automation workflows for conversational & decision-support use cases
+- Improved reliability through prompt engineering and iterative evaluation
+
+`Generative AI` `AI Agents` `Prompt Engineering` `Workflow Automation`
+
+---
+
+### 🟣 Achievements
 
 <div align="center">
 
-**Languages**
-![C++](https://img.shields.io/badge/C++-CAFF3C?style=for-the-badge&logo=cplusplus&logoColor=0A0F08&labelColor=0A0F08)
-![Python](https://img.shields.io/badge/Python-CAFF3C?style=for-the-badge&logo=python&logoColor=0A0F08&labelColor=0A0F08)
-![SQL](https://img.shields.io/badge/SQL-CAFF3C?style=for-the-badge&logo=postgresql&logoColor=0A0F08&labelColor=0A0F08)
-
-**Backend**
-![FastAPI](https://img.shields.io/badge/FastAPI-CAFF3C?style=for-the-badge&logo=fastapi&logoColor=0A0F08&labelColor=0A0F08)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CAFF3C?style=for-the-badge&logo=python&logoColor=0A0F08&labelColor=0A0F08)
-![REST API](https://img.shields.io/badge/REST_APIs-CAFF3C?style=for-the-badge&logo=fastapi&logoColor=0A0F08&labelColor=0A0F08)
-
-**Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-CAFF3C?style=for-the-badge&logo=postgresql&logoColor=0A0F08&labelColor=0A0F08)
-![MySQL](https://img.shields.io/badge/MySQL-CAFF3C?style=for-the-badge&logo=mysql&logoColor=0A0F08&labelColor=0A0F08)
-![Redis](https://img.shields.io/badge/Redis-CAFF3C?style=for-the-badge&logo=redis&logoColor=0A0F08&labelColor=0A0F08)
-
-**Data Engineering**
-![Pandas](https://img.shields.io/badge/Pandas-CAFF3C?style=for-the-badge&logo=pandas&logoColor=0A0F08&labelColor=0A0F08)
-![NumPy](https://img.shields.io/badge/NumPy-CAFF3C?style=for-the-badge&logo=numpy&logoColor=0A0F08&labelColor=0A0F08)
-
-**Tools & Platforms**
-![Docker](https://img.shields.io/badge/Docker-CAFF3C?style=for-the-badge&logo=docker&logoColor=0A0F08&labelColor=0A0F08)
-![Git](https://img.shields.io/badge/Git-CAFF3C?style=for-the-badge&logo=git&logoColor=0A0F08&labelColor=0A0F08)
-![Linux](https://img.shields.io/badge/Linux-CAFF3C?style=for-the-badge&logo=linux&logoColor=0A0F08&labelColor=0A0F08)
-![GitHub](https://img.shields.io/badge/GitHub-CAFF3C?style=for-the-badge&logo=github&logoColor=0A0F08&labelColor=0A0F08)
+| Recognition | Details |
+|---|---|
+| 🏆 CBSE Class XII | 91.40% — Amity International School |
+| 🎓 B.Tech IIoT | CGPA 7.50/10 — USAR, GGSIPU |
+| 📜 Placeholder Certification | [View Certificate](#) |
+| 🏅 Placeholder Hackathon / Award | [View Certificate](#) |
 
 </div>
 
 ---
 
-## `> cat current-focus.yaml`
+### 🟣 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vedantdotpy&show_icons=true&theme=radical&hide_border=true&bg_color=0f0524&title_color=A78BFA&icon_color=7C3AED&text_color=E9D5FF&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantdotpy&theme=radical&hide_border=true&background=0f0524&stroke=7C3AED&ring=A78BFA&fire=A78BFA&currStreakLabel=E9D5FF" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantdotpy&layout=compact&theme=radical&hide_border=true&bg_color=0f0524&title_color=A78BFA&text_color=E9D5FF" width="45%"/>
+
+</div>
+
+---
+
+### 🟣 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vedantdotpy&theme=radical&no-frame=true&background=0f0524&row=1&column=6"/>
+
+</div>
+
+---
+
+### 🟣 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vedantdotpy&theme=react-dark&bg_color=0f0524&color=A78BFA&line=7C3AED&point=E9D5FF&hide_border=true"/>
+
+</div>
+
+---
+
+### 🟣 Current Focus
 
 ```yaml
-learning:
-  - Data Structures & Algorithms — sharpening problem-solving with C++ and Python
-  - Forecasting & applied ML for data-driven backend systems
-  - Cloud deployment fundamentals (AWS / Azure)
+Learning:
+  - Advanced System Design & Distributed Systems
+  - Go for high-performance backend services
+  - Cloud-native deployment patterns (AWS / GCP)
 
-building:
-  - Supply Chain Intelligence Platform  # expanding analytics + forecasting modules
-  - More backend/data projects in progress
+Building:
+  - AI-augmented developer tooling
+  - Production-grade data pipelines
 
-open_to:
-  - Software Engineering, Backend & Data Engineering roles
+Exploring:
+  - Multi-agent AI architectures
+  - LLM-powered automation systems
+
+Open To:
+  - Software Engineering (New Grad, 2027)
+  - Backend / Data Engineering Roles
+  - AI/ML Engineering Opportunities
 ```
 
-## `> ask-me-about`
-
-<div align="center">
-
-| 🌐 **Backend Systems** | 📊 **Data Engineering** | 🔐 **Security Analytics** |
-|:--:|:--:|:--:|
-| FastAPI, REST design | ETL pipelines, Pandas | Anomaly detection |
-| PostgreSQL, Redis caching | PostgreSQL warehousing | Automated reporting |
-
-</div>
-
 ---
 
-## `> github --stats`
+### 🟣 Connect With Me
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vedantdotpy&show_icons=true&hide_border=true&title_color=CAFF3C&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08" />
-
-<img height="165" src="https://streak-stats.demolab.com/?user=vedantdotpy&hide_border=true&background=0A0F08&stroke=CAFF3C&ring=8AFF57&fire=CAFF3C&currStreakLabel=CAFF3C" />
+<a href="mailto:vedantmishra.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/vedant-mishra-dev"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/vedantdotpy"><img src="https://img.shields.io/badge/GitHub-6D28D9?style=flat-square&logo=github&logoColor=white"/></a>
 
 </div>
 
-<div align="center">
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=vedantdotpy&hide_border=true&bg_color=0A0F08&color=CAFF3C&line=8AFF57&point=CAFF3C&area=true)
-
-</div>
+<br/>
 
 <div align="center">
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedantdotpy&theme=dark_dimmed)
+<i>"I write code like I expect to be paged for it. That's why I rarely am."</i>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:3b0764,100:0f0524&height=140&section=footer"/>
 
-<div align="center">
-
-![Repos by Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vedantdotpy&theme=dark_dimmed)
-![Commits by Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vedantdotpy&theme=dark_dimmed)
-
-</div>
-
----
-
-## `> trophies --show`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vedantdotpy&theme=matrix&no-frame=true&column=7" />
-
-</div>
-
----
-
-## `> ./snake.sh`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/vedantdotpy/vedantdotpy/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" />
-
-</div>
-
----
-
-## `> ./3d-graph.sh`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/vedantdotpy/vedantdotpy/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
-
-</div>
-
----
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&fontColor=CAFF3C&text=Always+shipping%2C+always+learning&fontSize=20&reversal=true&height=120" />
 </div>
