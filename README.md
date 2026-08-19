@@ -216,16 +216,6 @@ Worked on Generative AI and automation-based solutions.
 - 📊 Created data pipelines transforming raw data into insights
 - 🐳 Worked with containerized deployment environments
 
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vedantdotpy&show_icons=true&theme=radical&hide_border=true&bg_color=0f0524&title_color=A78BFA&icon_color=7C3AED&text_color=E9D5FF&count_private=true" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantdotpy&layout=compact&theme=radical&hide_border=true&bg_color=0f0524&title_color=A78BFA&text_color=E9D5FF" width="45%"/>
-
-</div>
-
 ## 🟣 Current Focus
 
 ```
