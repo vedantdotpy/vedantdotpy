@@ -1,8 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Vedant Mishra
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Data+Analyst;Business+Intelligence+%26+Analytics+Engineering;IIoT+%2B+Python+%2B+SQL+%2B+Cloud" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1200&color=00D4FF&center=true&vCenter=true&width=680&lines=Software+Engineer+%E2%80%94+Backend+%26+Data+Engineering;Building+APIs%2C+Pipelines+%26+Systems+That+Scale;Python+%7C+FastAPI+%7C+PostgreSQL+%7C+Docker" alt="Typing SVG" />
 
 </div>
 
@@ -14,117 +12,162 @@
 
 </div>
 
+<br>
+
+```bash
+vedant@dev:~$ whoami
+```
+
+```yaml
+name:      Vedant Mishra
+role:      Software Engineer — Backend & Data Engineering
+based_in:  New Delhi, India
+studying:  B.Tech, Industrial Internet of Things — GGSIPU (2023–2027)
+focus:     Python · FastAPI · PostgreSQL · Docker · Data Pipelines
+status:    Building production-style systems, one repo at a time
+```
+
 ---
 
-<div align="center">
-
-### 💡 *Turning raw data into decisions — building software and analytics systems that hold up in the real world*
-
-</div>
-
-## 🔬 What I'm Working On
+## ⚡ Experience
 
 <table>
 <tr>
-<td width="33%">
+<td width="15%" valign="top"><b>Aug – Sep 2026</b></td>
+<td width="85%">
 
-### 📊 Data Analytics & BI
-- End-to-end analytics pipelines with **Python & SQL**
-- Star-schema data warehousing
-- Business-facing dashboards that answer real questions
+### 🔐 Software Engineering Intern — Information Security Team
+**LG Electronics India Ltd.** · On-site, Noida
+
+Built an **Enterprise Security Operations Analytics Platform** — a Python-based system automating security event processing and reporting.
+
+- 🔧 Cut manual analysis effort by **50%+** through automated workflows
+- 📊 Built ETL pipelines (Python, Pandas, SQL, PostgreSQL) processing **100K+ security events**
+- 🌐 Designed **FastAPI REST APIs** for threat summaries, user activity, and risk analysis
+- 🚨 Implemented rule-based anomaly detection for suspicious auth patterns
+- 🐳 Containerized services with Docker & Docker Compose
 
 </td>
-<td width="33%">
+</tr>
+<tr>
+<td width="15%" valign="top"><b>Jun – Jul 2026</b></td>
+<td width="85%">
 
-### 💻 Software Engineering
-- Building production-style, containerized applications
-- Clean, reusable, well-documented code
-- API and backend fundamentals
+### 🤖 AI Automation & Intelligent Solutions Intern
+**IBM SkillsBuild × BharatCares** · Remote
 
-</td>
-<td width="33%">
-
-### ⚙️ IIoT & Systems Thinking
-- B.Tech in Industrial Internet of Things
-- Bridging embedded systems knowledge with data-driven decision-making
-- Operational and supply chain intelligence
+- Built **3+ AI automation prototypes** across Generative AI, AI agents, and workflow automation
+- Designed and tested **10+ AI-driven workflows** for task automation and decision support
+- Improved workflow reliability via prompt engineering and iterative evaluation
+- Explored multi-agent architectures for real-world automation scenarios
 
 </td>
 </tr>
 </table>
 
-## 🌱 Currently Learning
+---
 
-```
-📈 Sales & demand forecasting models (time series, statistical + ML methods)
-🧩 Data Structures & Algorithms — deepening problem-solving with C++ and Python
-☁️ Cloud deployment fundamentals (AWS / Azure)
-🧠 Applied machine learning for business analytics
-```
+## 🚀 Featured Projects
 
-## 🤝 Open to Collaboration On
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 📊 Data analytics & business intelligence projects
-- 🐍 Python-based backend / data engineering tools
-- 🏭 Supply chain, operations, or IIoT-adjacent analytics
-- 🎓 Open-source projects where I can learn while contributing
+### 🔗 Scalable URL Shortener Backend
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vedantdotpy)
 
-## 🧠 Ask Me About
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+A production-style backend with REST APIs for generation, redirection, auth, and analytics tracking.
+
+- 🗄️ PostgreSQL schema via SQLAlchemy ORM, indexed for **100K+ URL records**
+- ⚡ Redis caching cut DB dependency by **70%+**
+- 📈 Analytics pipeline capturing **10K+ simulated click events**
+
+</td>
+<td width="50%" valign="top">
+
+### 🚚 Supply Chain Intelligence & Optimization Platform
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vedantdotpy/supply-chain-intelligence)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+An end-to-end ETL and analytics platform for supply chain intelligence.
+
+- 📦 Processed **180K+ transactions** through Python-based ETL pipelines
+- 📊 Analytics covering sales, logistics efficiency, and inventory trends
+- 🐳 Dockerized, reproducible data processing workflows
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-| 📊 **Data Analytics** | 🗄️ **SQL & Data Warehousing** | 🏭 **Supply Chain Systems** |
-|:--:|:--:|:--:|
-| Pandas, KPI design | Star schema modeling | ETL pipeline design |
-| Dashboarding | Query optimization | Operational analytics |
-
-</div>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Data & Analytics
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-### Tools & Platforms
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+> 🧩 More projects in progress — this section grows as new work ships.
 
 </div>
 
 ---
 
-## 🚀 Featured Project
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 🚚 [Supply Chain Intelligence Platform](https://github.com/vedantdotpy/supply-chain-intelligence)
+**Languages**
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-*An end-to-end supply chain and demand intelligence platform using Python, SQL, statistics, forecasting, optimization, and Power BI.*
+**Backend**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-Built a containerized ETL pipeline and star-schema PostgreSQL warehouse processing 180K+ supply chain transactions, with a Streamlit dashboard surfacing revenue, profitability, customer, and shipping intelligence.
+**Data Engineering**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Tools & Platforms**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
-> More projects coming soon — this section will grow as I ship new work.
+---
+
+## 🌱 Currently Exploring
+
+```
+🧩 Data Structures & Algorithms — sharpening problem-solving with C++ and Python
+📈 Forecasting & applied ML for data-driven backend systems
+☁️ Cloud deployment fundamentals (AWS / Azure)
+🤖 AI agent architectures and workflow automation patterns
+```
+
+## 🧠 Ask Me About
+
+<div align="center">
+
+| 🌐 **Backend Systems** | 📊 **Data Engineering** | 🔐 **Security Analytics** |
+|:--:|:--:|:--:|
+| FastAPI, REST design | ETL pipelines, Pandas | Anomaly detection |
+| PostgreSQL, Redis caching | PostgreSQL warehousing | Automated reporting |
+
+</div>
 
 ---
 
@@ -159,9 +202,9 @@ Built a containerized ETL pipeline and star-schema PostgreSQL warehouse processi
 
 <div align="center">
 
-### 💭 *"The data doesn't lie — but it needs the right pipeline to tell the truth."*
-
----
+```bash
+vedant@dev:~$ echo "Always shipping, always learning."
+```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=100&section=footer" width="100%"/>
 
