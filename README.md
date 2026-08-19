@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:3b0764,100:6d28d9&height=260&section=header&text=Vedant%20Mishra&fontSize=60&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Data%20Engineering%20%7C%20AI%20Systems&descAlignY=58&descSize=20" width="100%"/>
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+Scalable+Backend+Systems;Turning+Coffee+Into+APIs+%26+Debugging+Sessions;Python+%7C+FastAPI+%7C+PostgreSQL+%7C+Docker;Engineering+AI-Powered+Data+Products;Making+Machines+Do+Things+They+Were+Never+Ready+For" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=800&lines=Backend+Engineer+Building+Scalable+Systems;Designing+APIs+%26+Database+Architectures;Python+%7C+FastAPI+%7C+PostgreSQL+%7C+Docker;Exploring+Distributed+Systems+%26+Cloud;Writing+Code+That+Survives+Production" />
   <br/><br/>
   <h3>"Turning coffee into APIs, bugs into Stack Overflow searches, and 2 AM panic into scalable solutions."</h3>
   <br/>
