@@ -1,42 +1,56 @@
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&fontColor=CAFF3C&text=%3E_%20vedant_mishra&fontSize=38&desc=Software+Engineer+%E2%80%94+Backend+%26+Data+Engineering&descColor=8AFF57&animation=fadeIn&height=180" />
+</div>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=1800&pause=800&color=00D4FF&multiline=true&repeat=true&width=600&height=140&lines=%24+whoami;vedant_mishra;%24+cat+role.txt;Software+Engineer+%E2%80%94+Backend+%26+Data+Engineering;%24+./run+--stack;Python+%C2%B7+FastAPI+%C2%B7+PostgreSQL+%C2%B7+Docker" alt="Terminal Typing SVG" />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=1800&pause=800&color=CAFF3C&multiline=true&repeat=true&width=600&height=140&lines=%24+whoami;vedant_mishra;%24+cat+role.txt;Software+Engineer+%E2%80%94+Backend+%26+Data+Engineering;%24+./run+--stack;Python+%C2%B7+FastAPI+%C2%B7+PostgreSQL+%C2%B7+Docker" alt="Terminal Typing SVG" />
 
 </div>
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/vedantdotpy?style=for-the-badge&logo=github&logoColor=white&color=00d4ff)](https://github.com/vedantdotpy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00d4ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-mishra-/)
-[![Profile Views](https://komarev.com/ghpvc/?username=vedantdotpy&style=for-the-badge&color=00d4ff)](https://github.com/vedantdotpy)
+[![GitHub followers](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Followers&query=followers&url=https://api.github.com/users/vedantdotpy&logo=github&logoColor=0A0F08&color=CAFF3C&labelColor=0A0F08)](https://github.com/vedantdotpy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-CAFF3C?style=for-the-badge&logo=linkedin&logoColor=0A0F08&labelColor=0A0F08)](https://www.linkedin.com/in/vedant-mishra-/)
+[![Profile Views](https://komarev.com/ghpvc/?username=vedantdotpy&style=for-the-badge&color=caff3c&labelColor=0A0F08)](https://github.com/vedantdotpy)
 
 </div>
 
 <br>
 
-```yaml
-based_in:  New Delhi, India
-studying:  B.Tech, Industrial Internet of Things — GGSIPU (2023–2027)
-focus:     Python · FastAPI · PostgreSQL · Docker · Data Pipelines
-status:    Building production-style systems, one repo at a time
+## `> whoami`
+
+```bash
+$ cat .profile
+
+BASED_IN  =  New Delhi, India
+STUDYING  =  B.Tech, Industrial Internet of Things — GGSIPU (2023–2027)
+FOCUS     =  Python · FastAPI · PostgreSQL · Docker · Data Pipelines
+STATUS    =  Building production-style systems, one repo at a time
 ```
 
 ---
 
-## 🚀 Featured Projects
+## `> ls /projects`
 
 <div align="center">
 
-### 🚚 [Supply Chain Intelligence & Optimization Platform](https://github.com/vedantdotpy/supply-chain-intelligence)
+<details open>
+<summary><b>&#9654; Supply Chain Intelligence & Optimization Platform</b></summary>
+<br>
 
 *An end-to-end supply chain and demand intelligence platform using Python, SQL, statistics, forecasting, optimization, and Power BI.*
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | Python · PostgreSQL · Streamlit · Docker |
+| **Scale** | 180K+ supply chain transactions processed |
+| **Impact** | Analytics covering sales performance, logistics efficiency, and inventory trends |
+| **Repo** | [View on GitHub](https://github.com/vedantdotpy/supply-chain-intelligence) |
 
-Processed **180K+ supply chain transactions** through Python-based ETL pipelines, with analytics workflows covering sales performance, logistics efficiency, inventory trends, and operational insights — all running on a Dockerized, reproducible pipeline.
+Designed and built the full Python-based ETL pipeline, PostgreSQL data layer, and Dockerized, reproducible processing workflows.
+
+</details>
 
 </div>
 
@@ -44,49 +58,56 @@ Processed **180K+ supply chain transactions** through Python-based ETL pipelines
 
 ---
 
-## 🛠️ Tech Stack
+## `> skills --list`
 
 <div align="center">
 
 **Languages**
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-CAFF3C?style=for-the-badge&logo=cplusplus&logoColor=0A0F08&labelColor=0A0F08)
+![Python](https://img.shields.io/badge/Python-CAFF3C?style=for-the-badge&logo=python&logoColor=0A0F08&labelColor=0A0F08)
+![SQL](https://img.shields.io/badge/SQL-CAFF3C?style=for-the-badge&logo=postgresql&logoColor=0A0F08&labelColor=0A0F08)
 
 **Backend**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-CAFF3C?style=for-the-badge&logo=fastapi&logoColor=0A0F08&labelColor=0A0F08)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CAFF3C?style=for-the-badge&logo=python&logoColor=0A0F08&labelColor=0A0F08)
+![REST API](https://img.shields.io/badge/REST_APIs-CAFF3C?style=for-the-badge&logo=fastapi&logoColor=0A0F08&labelColor=0A0F08)
 
 **Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-CAFF3C?style=for-the-badge&logo=postgresql&logoColor=0A0F08&labelColor=0A0F08)
+![MySQL](https://img.shields.io/badge/MySQL-CAFF3C?style=for-the-badge&logo=mysql&logoColor=0A0F08&labelColor=0A0F08)
+![Redis](https://img.shields.io/badge/Redis-CAFF3C?style=for-the-badge&logo=redis&logoColor=0A0F08&labelColor=0A0F08)
 
 **Data Engineering**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-CAFF3C?style=for-the-badge&logo=pandas&logoColor=0A0F08&labelColor=0A0F08)
+![NumPy](https://img.shields.io/badge/NumPy-CAFF3C?style=for-the-badge&logo=numpy&logoColor=0A0F08&labelColor=0A0F08)
 
 **Tools & Platforms**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-CAFF3C?style=for-the-badge&logo=docker&logoColor=0A0F08&labelColor=0A0F08)
+![Git](https://img.shields.io/badge/Git-CAFF3C?style=for-the-badge&logo=git&logoColor=0A0F08&labelColor=0A0F08)
+![Linux](https://img.shields.io/badge/Linux-CAFF3C?style=for-the-badge&logo=linux&logoColor=0A0F08&labelColor=0A0F08)
+![GitHub](https://img.shields.io/badge/GitHub-CAFF3C?style=for-the-badge&logo=github&logoColor=0A0F08&labelColor=0A0F08)
 
 </div>
 
 ---
 
-## 🌱 Currently Exploring
+## `> cat current-focus.yaml`
 
-```
-🧩 Data Structures & Algorithms — sharpening problem-solving with C++ and Python
-📈 Forecasting & applied ML for data-driven backend systems
-☁️ Cloud deployment fundamentals (AWS / Azure)
-🤖 AI agent architectures and workflow automation patterns
+```yaml
+learning:
+  - Data Structures & Algorithms — sharpening problem-solving with C++ and Python
+  - Forecasting & applied ML for data-driven backend systems
+  - Cloud deployment fundamentals (AWS / Azure)
+
+building:
+  - Supply Chain Intelligence Platform  # expanding analytics + forecasting modules
+  - More backend/data projects in progress
+
+open_to:
+  - Software Engineering, Backend & Data Engineering roles
 ```
 
-## 🧠 Ask Me About
+## `> ask-me-about`
 
 <div align="center">
 
@@ -99,36 +120,48 @@ Processed **180K+ supply chain transactions** through Python-based ETL pipelines
 
 ---
 
-## 📊 GitHub Statistics & Activity
+## `> github --stats`
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=vedantdotpy&theme=tokyonight&hide_border=true&background=0a0e27&stroke=00d4ff&ring=a855f7&fire=00d4ff&currStreakLabel=e2e8f0)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vedantdotpy&show_icons=true&hide_border=true&title_color=CAFF3C&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08" />
+
+<img height="165" src="https://streak-stats.demolab.com/?user=vedantdotpy&hide_border=true&background=0A0F08&stroke=CAFF3C&ring=8AFF57&fire=CAFF3C&currStreakLabel=CAFF3C" />
 
 </div>
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=vedantdotpy&theme=tokyo-night&hide_border=true&bg_color=0a0e27&color=00d4ff&line=a855f7&point=00d4ff&area=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=vedantdotpy&hide_border=true&bg_color=0A0F08&color=CAFF3C&line=8AFF57&point=CAFF3C&area=true)
 
 </div>
 
 <div align="center">
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedantdotpy&theme=tokyonight)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedantdotpy&theme=dark_dimmed)
 
 </div>
 
 <div align="center">
 
-![Repos by Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vedantdotpy&theme=tokyonight)
-![Commits by Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vedantdotpy&theme=tokyonight)
+![Repos by Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vedantdotpy&theme=dark_dimmed)
+![Commits by Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vedantdotpy&theme=dark_dimmed)
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## `> trophies --show`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vedantdotpy&theme=matrix&no-frame=true&column=7" />
+
+</div>
+
+---
+
+## `> ./snake.sh`
 
 <div align="center">
 
@@ -138,7 +171,7 @@ Processed **180K+ supply chain transactions** through Python-based ETL pipelines
 
 ---
 
-## 🧊 3D Contribution Graph
+## `> ./3d-graph.sh`
 
 <div align="center">
 
@@ -149,7 +182,5 @@ Processed **180K+ supply chain transactions** through Python-based ETL pipelines
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=100&section=footer" width="100%"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&fontColor=CAFF3C&text=Always+shipping%2C+always+learning&fontSize=20&reversal=true&height=120" />
 </div>
