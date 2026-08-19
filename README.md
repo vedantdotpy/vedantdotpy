@@ -225,12 +225,6 @@ Worked on Generative AI and automation-based solutions.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantdotpy&layout=compact&theme=radical&hide_border=true&bg_color=0f0524&title_color=A78BFA&text_color=E9D5FF" width="45%"/>
 </div>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/vedantdotpy/vedantdotpy/output/github-contribution-grid-snake-dark.svg"/>
-</div>
-
 ## 🟣 Current Focus
 
 ```
