@@ -219,10 +219,11 @@ Worked on Generative AI and automation-based solutions.
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedantdotpy&show_icons=true&theme=radical&hide_border=true&bg_color=0f0524&title_color=A78BFA&icon_color=7C3AED&text_color=E9D5FF&count_private=true" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantdotpy&theme=radical&hide_border=true&background=0f0524&stroke=7C3AED&ring=A78BFA&fire=A78BFA&currStreakLabel=E9D5FF" width="49%"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantdotpy&layout=compact&theme=radical&hide_border=true&bg_color=0f0524&title_color=A78BFA&text_color=E9D5FF" width="45%"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=vedantdotpy&show_icons=true&theme=radical&hide_border=true&bg_color=0f0524&title_color=A78BFA&icon_color=7C3AED&text_color=E9D5FF&count_private=true" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantdotpy&layout=compact&theme=radical&hide_border=true&bg_color=0f0524&title_color=A78BFA&text_color=E9D5FF" width="45%"/>
+
 </div>
 
 ## 🟣 Current Focus
