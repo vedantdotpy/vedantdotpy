@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:3b0764,100:6d28d9&height=260&section=header&text=Vedant%20Mishra&fontSize=60&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Data%20Engineering&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:3b0764,100:6d28d9&height=260&section=header&text=Vedant%20Mishra&fontSize=60&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20and%20Data%20Engineering&descAlignY=58&descSize=20" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=680&lines=Backend+%26+Data+Engineering+Systems;Building+with+Python%2C+FastAPI%2C+PostgreSQL;AI%2FML+%7C+Automation+%7C+Cloud-Ready+Apps;Turning+Data+into+Scalable+Products" alt="Typing SVG" />
 
@@ -109,7 +109,7 @@ End-to-end analytics platform processing large-scale supply chain data — cover
 | **Performance** | Automated ETL reducing manual analysis effort significantly |
 | **Security** | Containerized, reproducible execution environments |
 | **Impact** | Sales, logistics & inventory insights with actionable recommendations |
-| **Repository** | [View on GitHub](https://github.com/vedantdotpy/supply-chain-intelligence-platform) |
+| **Repository** | [View on GitHub](https://github.com/vedantdotpy/supply-chain-intelligence) |
 
 Built a multi-phase analytical pipeline — descriptive through prescriptive analytics — with data cleaning, validation, and transformation stages designed for reliability at scale, backed by clear "so-what" business recommendations rather than raw metrics alone.
 
@@ -173,8 +173,6 @@ Prototyped Generative AI and multi-agent automation systems for real-world workf
 |---|---|
 | 🏆 CBSE Class XII | 91.40% — Amity International School |
 | 🎓 B.Tech IIoT | CGPA 7.50/10 — USAR, GGSIPU |
-| 📜 Placeholder Certification | [View Certificate](#) |
-| 🏅 Placeholder Hackathon / Award | [View Certificate](#) |
 
 </div>
 
@@ -251,7 +249,7 @@ Open To:
 
 <div align="center">
 
-<i>"I write code like I expect to be paged for it. That's why I rarely am."</i>
+<i>"Systems don't scale by accident — they scale by design."</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:3b0764,100:0f0524&height=140&section=footer"/>
 
