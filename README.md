@@ -15,9 +15,6 @@
   <a href="mailto:vedantmishra.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0524"/>
   </a>
-  <a href="https://github.com/vedantdotpy">
-    <img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0524"/>
-  </a>
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=vedantdotpy&style=flat-square&color=7c3aed&label=Profile+Views"/>
   <img src="https://img.shields.io/github/followers/vedantdotpy?style=flat-square&color=7c3aed&labelColor=0f0524&logo=github&label=Followers"/>
@@ -244,9 +241,6 @@ Exploring:
   </a>
   <a href="https://linkedin.com/in/vedant-mishra-dev">
     <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/vedantdotpy">
-    <img src="https://img.shields.io/badge/GitHub-6D28D9?style=flat-square&logo=github&logoColor=white"/>
   </a>
 </div>
 
